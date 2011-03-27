@@ -1,0 +1,138 @@
+body {
+    background-color: #ffaf48;
+}
+
+#header {
+    margin: 18px 0px;
+    background-color: #ff3500;
+    padding: 10px 10px 0px 20px;
+
+    /* Rounded corners */
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#main {
+}
+
+#sidebar {
+}
+
+/* Main Menu CSS */
+#menu {
+    margin: 18px 0px;
+    padding: 10px 10px 10px 10px;
+    background-color: #ff3500;
+
+    /* Rounded corners */
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#menu ul {
+    list-style: none;
+    padding: 10px 10px 10px 0px;
+    border: none;
+    margin: 0;
+}
+
+#menu li {
+    padding: 0px 10px 0px 10px;
+}
+
+#menu li a {
+    display: block;
+    background-color: #ff3500;
+    color: #000;
+    text-decoration: none;
+    padding: 0px 10px 0px 10px;
+    /*padding-left: 18px;*/
+}
+
+#menu li a:hover {
+    background-color: #ffbe73;
+    color: #000;
+
+    /* Rounded corners */
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Contact CSS */
+#contact {
+    margin: 18px 0px;
+    padding: 10px 10px 10px 10px;
+    background-color: #ff3500;
+
+    /* Rounded corners */
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+#contact ul {
+    list-style: none;
+    border: none;
+    padding: 10px 10px 10px 0px;
+    margin: 0;
+}
+
+#contact li {
+    padding: 0px 10px 0px 10px;
+}
+
+#contact li a {
+    display: block;
+    background-color: #ff3500;
+    color: #000;
+    text-decoration: none;
+    padding: 0px 10px 0px 10px;
+}
+
+#contact li a:hover {
+    background-color: #ff9073;
+    color: #000;
+
+    /* Rounded corners */
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+blockquote {
+}
+
+blockquote:before {
+    content: '"'; 
+    font-weight: bold;
+}
+
+blockquote:after {
+    content: '"'; 
+    font-weight: bold;
+}
+
+#purchase {
+    margin: 18px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+#purchase ul {
+    list-style: none;
+    border: none;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 18px 0px;
+}
+
+#purchase h3 {
+    margin-bottom: 10px;
+}
+
+#purchase a {
+}
+
+#footer {
+}

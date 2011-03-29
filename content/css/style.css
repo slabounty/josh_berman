@@ -4,7 +4,7 @@ body {
 
 #header {
     margin: 18px 0px;
-    background-color: #ff3500;
+    background-color: #ff0000;
     padding: 10px 10px 0px 20px;
 
     /* Rounded corners */
@@ -23,7 +23,7 @@ body {
 #menu {
     margin: 18px 0px;
     padding: 10px 10px 10px 10px;
-    background-color: #ff3500;
+    background-color: #ff0000;
 
     /* Rounded corners */
     -moz-border-radius: 10px 10px 10px 10px;
@@ -44,7 +44,7 @@ body {
 
 #menu li a {
     display: block;
-    background-color: #ff3500;
+    background-color: #ff0000;
     color: #000;
     text-decoration: none;
     padding: 0px 10px 0px 10px;
@@ -65,7 +65,7 @@ body {
 #contact {
     margin: 18px 0px;
     padding: 10px 10px 10px 10px;
-    background-color: #ff3500;
+    background-color: #ff0000;
 
     /* Rounded corners */
     -moz-border-radius: 10px;
@@ -86,14 +86,14 @@ body {
 
 #contact li a {
     display: block;
-    background-color: #ff3500;
+    background-color: #ff0000;
     color: #000;
     text-decoration: none;
     padding: 0px 10px 0px 10px;
 }
 
 #contact li a:hover {
-    background-color: #ff9073;
+    background-color: #ffbe73;
     color: #000;
 
     /* Rounded corners */
